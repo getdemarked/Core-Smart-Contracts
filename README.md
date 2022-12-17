@@ -1,1 +1,1 @@
-# Core-Smart-Contracts
+# Core Smart Contracts for Heroes Uprising
